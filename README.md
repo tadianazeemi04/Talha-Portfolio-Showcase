@@ -43,3 +43,16 @@ To clone and run this project locally:
 ```bash
 git clone https://github.com/tadianazeemi04/talha-portfolio-showcase.git
 cd talha-portfolio-showcas
+```
+
+Talha-Portfolio-Showcase/
+│
+├── img/                  # Folder for images used in the portfolio
+│
+├── README.md             # Project description and details file
+│
+├── portfolio.css         # Stylesheet file for the portfolio website
+│
+├── portfolio.html        # Main HTML file for the portfolio website
+│
+└── portfolio.js          # JavaScript file for the portfolio website

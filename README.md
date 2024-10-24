@@ -43,7 +43,6 @@ To clone and run this project locally:
 ```bash
 git clone https://github.com/tadianazeemi04/talha-portfolio-showcase.git
 cd talha-portfolio-showcas
-```
 
 Talha-Portfolio-Showcase/
 │
